@@ -15,7 +15,11 @@
 
 ## Ramas
 
+* Crear nueva rama: `git checkout -b <nombre_rama>`
+* Cambiar de rama: `git checkout <nombre_rama>`
+
 ## Otros
+
 * Ver todos los commits: `git log` (para salir, pulsar `q`) o en github "Insights -> Network"
 
 
