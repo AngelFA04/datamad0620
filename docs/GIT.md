@@ -6,6 +6,7 @@
 * Comitear los cambios: `git commit -am "<mensaje>"`
 * Ver los repositiorios remotos vinculados: `git remote -v`
 * Añadir un remoto: `git remote add <remote_name> <git_url>`
+* Clonar un repositorio: `git clone <repo_url>`
 
 ## Push
 
@@ -13,6 +14,10 @@
 * Pushear una rama a remoto `git push <remote_name> <branch_name>`
 
 ## Ramas
+
+## Otros
+* Ver todos los commits: `git log` (para salir, pulsar `q`) o en github "Insights -> Network"
+
 
 ## REGLA DE ORO
 
