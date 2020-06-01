@@ -19,11 +19,12 @@
 * Cambiar de rama: `git checkout <nombre_rama>`
 * Ver en que rama estoy: `git status`
 * Merge (trae contenido desde la rama `<branch_name>` a la rama actual): `git merge <branch_name>`
+* Borrar una rama local: `git branch -d <branch_name>`
+* Borrar una rama remota: `git branch -d origin/<branch_name>`
 
 ## Otros
 
 * Ver todos los commits: `git log` (para salir, pulsar `q`) o en github "Insights -> Network"
-
 
 ## REGLA DE ORO
 
