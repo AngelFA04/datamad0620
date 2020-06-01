@@ -17,6 +17,9 @@
 
 * Crear nueva rama: `git checkout -b <nombre_rama>`
 * Cambiar de rama: `git checkout <nombre_rama>`
+* Ver en que rama estoy: `git status`
+* Merge (trae contenido desde la rama `<branch_name>` a la rama actual)
+
 
 ## Otros
 
