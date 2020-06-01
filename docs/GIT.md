@@ -23,6 +23,7 @@
 * Borrar una rama remota: `git branch -d origin/<branch_name>`
 
 ## Otros
+
 * Volver a un commit específico (por ejemplo para crear ramas nuevas desde ese punto): `git checkout <commit_id>`
 * Ver todos los commits: `git log` (para salir, pulsar `q`) o en github "Insights -> Network"
 
@@ -31,4 +32,3 @@
 * Nothing to commit, working tree clean al hacer `git status`
 * git push
 * Cuando me levanto de la silla, hago un `commit` & `push`
-
