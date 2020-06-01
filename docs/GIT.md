@@ -17,6 +17,7 @@
 
 * Crear nueva rama: `git checkout -b <nombre_rama>`
 * Cambiar de rama: `git checkout <nombre_rama>`
+* Merge: `git merge <branch_name>`
 
 ## Otros
 
