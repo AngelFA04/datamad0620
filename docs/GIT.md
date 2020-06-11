@@ -26,6 +26,7 @@
 
 * Volver a un commit específico (por ejemplo para crear ramas nuevas desde ese punto): `git checkout <commit_id>`
 * Ver todos los commits: `git log` (para salir, pulsar `q`) o en github "Insights -> Network"
+* Eliminar archivo del repositiorio git/github pero no de la carpeta en local: `git rm --cached <filename>`
 
 ## REGLA DE ORO
 
