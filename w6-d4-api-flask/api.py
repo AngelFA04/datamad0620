@@ -1,8 +1,6 @@
-import pandas as pd
+from src.app import app
+from src.config import PORT
+import src.controllers.ta
+import src.controllers.companies
 
-def main():
-    df = pd.read_csv("../data/pokemon.csv")
-    print(df.head())
-
-if __name__ == "__main__":
-    main()
+app.run("0.0.0.0", PORT, debug=True)
