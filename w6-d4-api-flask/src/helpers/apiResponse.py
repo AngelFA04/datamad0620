@@ -1,5 +1,3 @@
-
-
 def data(d):
     return {
         "status": "ok",
